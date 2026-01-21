@@ -9,4 +9,4 @@ ele foi feito com o básico do básico, Somente html, css e algumas imagens.
 
 mas foi com todo o coração 
 # Recomendações...
-deixo o modelo disponivel para quem queira usar, atualmente estou fazendo um outro, mas quem gostar pode fazer o bom uso dele e deixar com sua cara, a pagina foi feita para ser compartilhada com Vocês.
+deixei o modelo disponivel para quem queira usar, atualmente estou fazendo um outro, mas quem gostar pode fazer o bom uso dele e deixar com sua cara, a pagina foi feita para ser compartilhada com Vocês.
